@@ -1,0 +1,14 @@
+{
+    "name": "name/crm",
+    "autoload": {
+        "psr-4": {
+            "Name\\Crm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fdfd"
+        }
+    ],
+    "require": {}
+}
